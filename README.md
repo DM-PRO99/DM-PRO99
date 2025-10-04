@@ -1,6 +1,6 @@
-# Hi, I'm Kevin Mena 👋  
+# Hi, I'm Diego Mena 👋  
 
-### 💻 Full Stack Developer  
+### 💻 Frontend Developer  
 
 Passionate about continuous learning and building efficient, scalable solutions.  
 I focus on modern web technologies and backend systems, always looking to improve and grow.  
