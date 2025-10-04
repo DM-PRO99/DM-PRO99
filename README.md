@@ -1,14 +1,13 @@
-# Hi, I'm Diego Mena 👋  
-  
+![Banner](./assets/banner.png)
 
-### 💻 Frontend  Developer  
+# Hi, I'm Diego Mena 👋  
+
+### 💻 Frontend Developer  
 
 🚀 Apasionado por la tecnología y el aprendizaje constante.  
 Me gusta construir sistemas robustos y escalables, explorando nuevas herramientas y tecnologías cada día.  
 
 ---
-
-
 
 ### 🚀 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=2ED573)  
@@ -30,4 +29,3 @@ Me gusta construir sistemas robustos y escalables, explorando nuevas herramienta
 ✨ *"Keep looking up at the stars, and never stop coding."* 🌌  
 
 ⭐️ From [DM-PRO99](https://github.com/DM-PRO99)
-
