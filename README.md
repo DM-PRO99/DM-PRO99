@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Diego Mena Banner" width="100%" />
+</p>
+
+
 ![Banner](./assets/banner.png)
 
 # Hi, I'm Diego Mena 👋  
