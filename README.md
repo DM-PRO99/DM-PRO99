@@ -1,8 +1,13 @@
 <div align="center" style="background: linear-gradient(135deg, #0A192F, #1E3C72, #2ED573); padding: 40px; border-radius: 20px; box-shadow: 0px 0px 25px #2ED573;">
 
-  <h1 style="color:#2ED573; font-size:42px; font-family: 'Courier New', monospace; text-shadow: 0 0 10px #2ED573, 0 0 20px #2ED573;">
-    Hi, I'm Diego Mena 👋
-  </h1>
+  <!-- Título con animación neón -->
+  <svg viewBox="0 0 800 200">
+    <text x="50%" y="50%" dy=".35em" text-anchor="middle"
+      style="font-family:'Courier New', monospace; font-size: 48px; fill: #2ED573; text-shadow: 0 0 20px #2ED573;">
+      Hi, I'm Diego Mena 👋
+      <animate attributeName="fill-opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
 
   <h2 style="color:#A0F6D2; font-family:'Courier New', monospace; text-shadow: 0 0 8px #2ED573;">
     💻 Frontend Developer
