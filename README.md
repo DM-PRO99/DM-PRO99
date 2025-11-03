@@ -26,7 +26,7 @@
   <!-- Subtítulo -->
   <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle"
     style="font-family:'Courier New', monospace; font-size: 24px; fill: #A0F6D2;">
-    💻 Frontend Developer
+    💻 FullStack Developer
   </text>
 </svg>
 
